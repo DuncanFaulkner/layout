@@ -6,9 +6,12 @@
   height: 60px;
   // display: flex;
   // align-items: center;
-  background-color: rgba(#1976d2, 0.4);
+  background-color: rgba(#1976d2, 1);
   color: white;
-  font-weight: 600;
+  // font-weight: 600;
+}
+.innerToolbar {
+  margin-left: 10px;
 }
 
 .footer {
